@@ -14,24 +14,24 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
-      "Really sure?",
-      "Think again!",
-      "Last chance!",
-      "Surely not?",
-      "You might regret this!",
-      "Give it another thought!",
-      "Are you absolutely certain?",
-      "This could be a mistake!",
-      "Have a heart!",
-      "Don't be so cold!",
-      "Change of heart?",
-      "Wouldn't you reconsider?",
-      "Is that your final answer?",
+      "Are you sure Mamamelon? :(",
+      "Really sure??",
+      "Think again pweaseeee",
+      "I gib u last chance otayyy?",
+      "U really wanna say no?",
+      "U might regret it i telling u",
+      "pwease gib another thought? hehe",
+      "are u absolutely certain? *angwy face*",
+      "i telling u it big mistake",
+      "have some heart maynnnn",
+      "Don't be cold to smol bby",
+      "U heb change of heart?",
+      "Change of boobie maybe? hehe",
+      "Dis your final answer? :(",
       "You're breaking my heart ;(",
       "Is that your final answer?",
       "You're breaking my heart ;(",
-      "Plsss? :( You're breaking my heart",
+      "Plsss Mamamelon? :( You're breaking my heart",
     ];
 
     return phrases[Math.min(noCount, phrases.length - 1)];
@@ -43,7 +43,7 @@ export default function Page() {
         <>
           <img src="https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif" />
           <div className="text-4xl md:text-6xl font-bold my-4">
-            Ok Yayyyyy!!!
+            Okay, YAYYYYYYYYYYYYY THANK YOU FOR SAYING YES. HEHE, I LOVIE YOU THE MOST MY PRECIOUS PRINCESS. 
           </div>
         </>
       ) : (
